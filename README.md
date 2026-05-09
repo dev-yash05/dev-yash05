@@ -108,7 +108,7 @@ const yash: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 [Lanos Beta Platform](https://your-lanos-link.com)
+### 🎓 [Lanos Beta Platform](https://lanositsolutions.com)
 **Integrated EdTech & IT Solutions**
 
 > Multi-tenant SaaS web app powering EdTech and IT operations.
@@ -125,7 +125,7 @@ const yash: Developer = {
 </td>
 <td width="50%" valign="top">
 
-### ✈️ [Samriddhi Travels](https://your-samriddhi-link.com)
+### ✈️ [Samriddhi Travels](https://samriddhitravelsindore.vercel.app/)
 **Travel Booking Portal — Indore**
 
 > Digitized a local travel agency's entire booking workflow.
@@ -143,7 +143,7 @@ const yash: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 [Spring Boot E-Commerce Backend](https://github.com/yashnamdeo)
+### 🛒 [Spring Boot E-Commerce Backend]
 **Production-Ready REST API Engine**
 
 > Architected from scratch with security and scalability in mind.
