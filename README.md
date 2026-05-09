@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yash%20Namdeo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Java%20Spring%20Boot&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Yash%20Namdeo&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Java%20Spring%20Boot&amp;descAlignY=58&amp;descSize=18&amp;descColor=a78bfa" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+systems+%F0%9F%9A%80;MERN+%2B+Spring+Boot+Engineer+%E2%9A%A1;Real-time+%26+E-commerce+Architectures+%F0%9F%8F%97%EF%B8%8F;Clean+Code+%7C+Clean+Architecture+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+scalable+full-stack+systems+%F0%9F%9A%80;MERN+%2B+Spring+Boot+Engineer+%E2%9A%A1;Real-time+%26+E-commerce+Architectures+%F0%9F%8F%97%EF%B8%8F;Clean+Code+%7C+Clean+Architecture+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,8 +19,8 @@
 <br/>
 
 <!-- Profile Views & Stars -->
-![Profile Views](https://komarev.com/ghpvc/?username=yashnamdeo&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/yashnamdeo?style=for-the-badge&color=302b63&labelColor=0f0c29&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=dev-yash05&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/dev-yash05?style=for-the-badge&color=302b63&labelColor=0f0c29&label=FOLLOWERS)
 
 </div>
 
@@ -31,7 +31,7 @@
 ```typescript
 const yash: Developer = {
   name:       "Yash Namdeo",
-  location:   "Sagar, MP → Open to Indore & Remote 🌐",
+  location:   "Sagar, MP → Open to Relocation & Remote 🌐",
   role:       "Full Stack Java Developer Intern @ Lanos IT Solutions",
   university: "B.Tech CSE — RGPV (2022–Present)",
 
@@ -169,14 +169,14 @@ const yash: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashnamdeo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashnamdeo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-yash05&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=a78bfa&amp;text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yash05&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=yashnamdeo&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dev-yash05&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=a78bfa&amp;fire=a78bfa&amp;currStreakLabel=a78bfa)](https://git.io/streak-stats)
 
 </div>
 
@@ -186,7 +186,7 @@ const yash: Developer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yashnamdeo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dev-yash05&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -196,7 +196,15 @@ const yash: Developer = {
 
 <div align="center">
 
-[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashnamdeo&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-yash05&amp;bg_color=0d1117&amp;color=a78bfa&amp;line=a78bfa&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;custom_title=Yash%20Namdeo's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-yash05/dev-yash05/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-yash05/dev-yash05/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dev-yash05/dev-yash05/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -239,10 +247,10 @@ const yash: Developer = {
 
 <br/>
 
-**📍 Sagar, MP — Open to relocating to Indore & Remote opportunities**
+**📍 Sagar, MP — Open to Relocation & Remote opportunities**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=120&amp;section=footer&amp;animation=fadeIn" width="100%"/>
 
 </div>
