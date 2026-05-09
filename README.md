@@ -1,7 +1,20 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Yash%20Namdeo&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Java%20Spring%20Boot&amp;descAlignY=58&amp;descSize=18&amp;descColor=a78bfa" width="100%"/>
+<!-- Header Banner - inline SVG, always loads -->
+<svg width="100%" height="200" viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="200" fill="url(#bg)" rx="0"/>
+  <path d="M0,140 C200,100 400,160 600,130 C800,100 1000,150 1200,120 L1200,200 L0,200 Z" fill="#1a1730" opacity="0.6"/>
+  <path d="M0,160 C300,130 600,170 900,145 C1050,132 1150,155 1200,148 L1200,200 L0,200 Z" fill="#0d0b1e" opacity="0.8"/>
+  <text x="600" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle" letter-spacing="2">Yash Namdeo</text>
+  <text x="600" y="135" font-family="'Segoe UI', Arial, sans-serif" font-size="18" fill="#a78bfa" text-anchor="middle" letter-spacing="1">Full Stack Developer · MERN &amp; Java Spring Boot</text>
+</svg>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -251,6 +264,17 @@ const yash: Developer = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=120&amp;section=footer&amp;animation=fadeIn" width="100%"/>
+<svg width="100%" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" fill="url(#footer-bg)"/>
+  <path d="M0,60 C200,20 400,80 600,50 C800,20 1000,70 1200,40 L1200,0 L0,0 Z" fill="#1a1730" opacity="0.6"/>
+  <path d="M0,40 C300,10 600,50 900,25 C1050,12 1150,35 1200,28 L1200,0 L0,0 Z" fill="#0d0b1e" opacity="0.8"/>
+</svg>
 
 </div>
