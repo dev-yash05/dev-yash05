@@ -143,7 +143,7 @@ const yash: Developer = {
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 [Spring Boot E-Commerce Backend]
+### 🛒 Spring Boot E-Commerce Backend
 **Production-Ready REST API Engine**
 
 > Architected from scratch with security and scalability in mind.
@@ -182,14 +182,23 @@ const yash: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-yash05&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;icon_color=a78bfa&amp;text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-yash05&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=a78bfa&amp;text_color=ffffff"/>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-yash05&theme=tokyonight)](https://github.com/dev-yash05)
+
+<br/>
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-yash05&theme=tokyonight)](https://github.com/dev-yash05)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-yash05&theme=tokyonight)](https://github.com/dev-yash05)
+
+<br/>
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dev-yash05&theme=tokyonight)](https://github.com/dev-yash05)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dev-yash05&theme=tokyonight&utcOffset=5.5)](https://github.com/dev-yash05)
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dev-yash05&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=a78bfa&amp;fire=a78bfa&amp;currStreakLabel=a78bfa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dev-yash05&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
 
 </div>
 
@@ -199,7 +208,7 @@ const yash: Developer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dev-yash05&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=4&amp;column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dev-yash05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -209,7 +218,7 @@ const yash: Developer = {
 
 <div align="center">
 
-[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-yash05&amp;bg_color=0d1117&amp;color=a78bfa&amp;line=a78bfa&amp;point=ffffff&amp;area=true&amp;hide_border=true&amp;custom_title=Yash%20Namdeo's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev-yash05&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true&custom_title=Yash%20Namdeo's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
@@ -254,9 +263,9 @@ const yash: Developer = {
 > I'm actively **open to Full Stack, Java Backend, and Frontend roles**.
 > Let's build something that matters.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashnamdeo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-namdeo/)
 [![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashnamdeo754@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See_My_Work-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-See_My_Work-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://yashn.me)
 
 <br/>
 
