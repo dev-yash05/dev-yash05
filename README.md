@@ -46,7 +46,7 @@ const yash: Developer = {
   name:       "Yash Namdeo",
   location:   "Sagar, MP → Open to Relocation & Remote 🌐",
   role:       "Full Stack Java Developer Intern @ Lanos IT Solutions",
-  university: "B.Tech CSE — RGPV (2022–Present)",
+  university: "B.Tech CSE — RGPV (2023–Present)",
 
   currentlyBuilding: [
     "Enterprise EdTech platforms with Next.js + Spring Boot",
